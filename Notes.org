@@ -2,3 +2,4 @@
 - basic stuff, already read it a while ago
 * start at chapter 5
 [[file:Main.hs::main%20=%20putStrLn%20"Hello,%20Haskell!!"][pointless]]
+[[http://learnyouahaskell.com/recursion][start here]]
